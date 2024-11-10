@@ -1,5 +1,5745 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Title sequence -- vocalized singing, no instrument"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "b8ad833d-a688-4e00-9d76-7297c919f886"
+    },
+    {
+      "start_time": 58,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "instrumental, guitar strums/string instruments -- mostly upbeat, quite repetitive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "08f8903f-f2db-47f7-ac9a-54d4956e411f"
+    },
+    {
+      "start_time": 124,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "instrumental song adds vocals after cross tracks -- fades out as enter city"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "1a741db5-088c-4573-8758-80048663aadb"
+    },
+    {
+      "start_time": 235,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ambient noises of city life -- talking, dishes clanking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "5696cb5b-1bb3-495f-9e74-e23b904e926c"
+    },
+    {
+      "start_time": 275,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "string instruments pick back up, along with vocal"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "71e6c55c-a97c-4cc6-a1c7-afedab1c292c"
+    },
+    {
+      "start_time": 477,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "music stops, solemn silence except for wind + car"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "d8ff0ef9-0cc4-4a11-b8d8-1dace8fbe6f9"
+    },
+    {
+      "start_time": 509,
+      "end_time": 586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "instrumental music recommences, quietly, vocals increase"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "10baf02a-253b-47b5-b480-0c8b03bea449"
+    },
+    {
+      "start_time": 587,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "music reverts back to soft instrumental and vocals"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "bd8e4cab-54ec-4033-b8c5-3c94aed72bb4"
+    },
+    {
+      "start_time": 714,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Musical SHIFT -- musique classique, woodwinds ; see \"Bourree\" Hilversum Radio Orchestra "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "4518d63c-11de-4db9-abab-d6d3dea534b2"
+    },
+    {
+      "start_time": 594,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "squeaking of wagon wheels almost drowning out music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "bf6313c5-6bc8-40a7-ad10-84c0135deadb"
+    },
+    {
+      "start_time": 791,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "shift from woodwinds to rhythmic drum, with squeaking wheel"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "37d6380c-7086-487d-8aec-dae5fc974680"
+    },
+    {
+      "start_time": 808,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "all music halts with whistle"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "66af4138-fe9d-43c3-9864-ff32c5c39971"
+    },
+    {
+      "start_time": 838,
+      "end_time": 858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "rhythmic drums restart"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "8f7cd4ba-be84-4d9d-bbfb-9714d04f68e7"
+    },
+    {
+      "start_time": 858,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "somber woodwind music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "cd8be83f-2dff-4f1e-8aa1-a583e5058d7b"
+    },
+    {
+      "start_time": 990,
+      "end_time": 1085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "music shift back to lively, string music, strong vocals (wolof)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "d24f3a55-a988-4d8a-873c-5809bc6740f8"
+    },
+    {
+      "start_time": 3,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fade in from black, a concrete mosque is shown. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Staging",
+          "tag": "Cinematographic technique"
+        },
+        {
+          "tag": "Location",
+          "category": "Staging"
+        }
+      ],
+      "uuid": "5b287958-0b07-4512-96fa-90c29e39e65a"
+    },
+    {
+      "start_time": 38,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "opening title sequence, two shots of major road with lots of bikers, pedestrians, and cars. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Staging",
+          "tag": "Cinematographic technique"
+        },
+        {
+          "tag": "Location",
+          "category": "Staging"
+        }
+      ],
+      "uuid": "d14beb8f-b5b2-4d93-a23e-1db311f24d93"
+    },
+    {
+      "start_time": 58,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "traveling through « Medina », slow overhead shots "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "d140cda0-88f7-45e7-af59-ee1e541e173f"
+    },
+    {
+      "start_time": 228,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "downtown-ish/market area, busy, drop off passengers"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "183d0ae0-895d-47c3-80b3-75e7a07c8fd1"
+    },
+    {
+      "start_time": 221,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is resting on his wagon, and his hat covers his eyes. A beggar approaches him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Staging",
+          "tag": "Location"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "42815e09-900a-468b-8aad-e213988c7e82"
+    },
+    {
+      "start_time": 714,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "overview of the city. The streets are well paved and maintained, the architecture looks sound, there are primarily cars shown. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "2fe47331-a697-4e17-8fb1-05916896e0ac"
+    },
+    {
+      "start_time": 714,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "traveling through the city, he is the only wagoner shown."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "f4301604-f483-41a3-8efa-e42adb7e1982"
+    },
+    {
+      "start_time": 858,
+      "end_time": 862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lingering shot of a high-rise apartment complex, uniform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "565b38ea-e373-41f4-872f-704e229bbd76"
+    },
+    {
+      "start_time": 861,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "journey returning to the Medina"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "10e939c2-4745-4244-aa67-61ef180fd4d0"
+    },
+    {
+      "start_time": 990,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "shift back to Medina"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Location",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "d115037c-f6ad-4fe1-8b95-32025cbff2bb"
+    },
+    {
+      "start_time": 57,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Merciful Allah, protect me and mine from the Law and the Infidels! Amen!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "d2c9d81e-00d9-445d-bfe2-27ca7417e09b"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amen, Amen, Amen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "4e97f3d7-373f-4d48-89c1-d2bee06d7ca2"
+    },
+    {
+      "start_time": 85,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " - Take this. May God be with you! We've no food for lunch. - Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "c6dc8c4d-414c-40f6-81a1-32d29168899e"
+    },
+    {
+      "start_time": 150,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fatou's up early today! When's she going to pay me? But she has her troubles too!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "a1f18241-d365-4930-b384-51c399de7f9d"
+    },
+    {
+      "start_time": 171,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pull, Alboura!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "d66309d8-9980-4187-8c3c-d38672fae92f"
+    },
+    {
+      "start_time": 180,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I have to pick up that pest Mamadou! I won't stop! He ought to stay home! He's been out of work 6 months but he gets up each morning!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "9bc6f14b-e5ec-4663-b9a7-206e445c6dc9"
+    },
+    {
+      "start_time": 234,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All he gives me is a hand-shake! How'll I feed my horse and family?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "b1b57bdf-5960-47b6-a69f-748a11157932"
+    },
+    {
+      "start_time": 251,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's wait for God's mercy. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "b515612a-b3ef-42e5-9edb-afce5aa6d263"
+    },
+    {
+      "start_time": 287,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the grace of God! For the grace of God! Have pity on me! Have pity on me!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "8e3b59b4-43a0-4756-b8d1-65f157468726"
+    },
+    {
+      "start_time": 300,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why answer him? There are so many beggars! They're like flies!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "559e3d02-a277-4297-9fd1-25b3fa98a1f6"
+    },
+    {
+      "start_time": 308,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " - Wagoner, wake up! We got a job! - Right, boss!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "24e526c2-c5f2-4af4-8ee9-7184f868f783"
+    },
+    {
+      "start_time": 359,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " - Wagoner, stop! Take my wife to the maternity clinic! - Right, boss!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "11474240-9e13-4bc9-a11d-a0bc200d58af"
+    },
+    {
+      "start_time": 393,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That wheel again! How'll I ever fix it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "c6ecfdbe-ed9b-420d-bd1c-11e4857b585b"
+    },
+    {
+      "start_time": 405,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It still squeaks. And her with her head on my shoulder! Why can't she lean elsewhere? On he husband!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "f0f2d0ff-3d82-4645-afae-1ef90c1504a8"
+    },
+    {
+      "start_time": 419,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Modern women! I'll never understand them!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "f7bbab93-4297-4bce-ad47-942be736c746"
+    },
+    {
+      "start_time": 430,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Glory to God, we've arrived!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "988ceb29-d0fe-4762-9c6f-a5f60db8c7e3"
+    },
+    {
+      "start_time": 477,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I won't get home for lunch. I'll rest a little. I can't waste such a good morning. Fatou gave me some kola nuts. That's enough for my lunch. What'll they eat at home? Who knows?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "7ee28955-6b18-4fb2-9ede-ab2475ea8c12"
+    },
+    {
+      "start_time": 507,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who's singing about my ancestors? The brave warriors of the past! Their blood flows in my veins. Even if this new life enslaves me, I am still noble. Like my ancestors!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "9f1bb1a9-8f44-499c-828e-06b9bdd357a6"
+    },
+    {
+      "start_time": 590,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drive me to the cemetery! / As-salamu alaykum, frère. Tu peux me conduire au cimetière ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "fb8a3a80-4cee-4d7e-a57c-261abf12784f"
+    },
+    {
+      "start_time": 595,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " - Can you pay? - Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "9d166730-9a30-48be-a4cc-1657b8c439ed"
+    },
+    {
+      "start_time": 632,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " - You've no certificate. - I'm a stranger. - Wagoner, stay out!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "18518616-0167-4ab8-b0eb-61438fc172ea"
+    },
+    {
+      "start_time": 641,
+      "end_time": 642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Get a certificate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "a3a886b3-b2dc-4d50-b104-a6776b79c842"
+    },
+    {
+      "start_time": 655,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "God knows I'm a believer! What's to become of my child? I didn't want to leave him but I gave all I had to the story teller. I'll go pee."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "5e9e9822-957f-4df3-bad8-9d62465e754e"
+    },
+    {
+      "start_time": 683,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " - Peace be with you! Peace only! I'm moving to the Heights! - The Heights! - Yes. - Wagoners aren't allowed up there. - I got connections! I pay well! - I never go up there! - Look! - Not allowed!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "cae27e78-fec7-48be-b33a-84c04bbe06a2"
+    },
+    {
+      "start_time": 708,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "May all the saints protect me! I'll chance it!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "8f99d012-a66c-4866-a2ef-a097189af2a2"
+    },
+    {
+      "start_time": 750,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "May all the saints protect me! May the beloved sheik protect me! May all protect me!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "e1f2a4f7-ec0d-4818-9156-8e44458ae4e8"
+    },
+    {
+      "start_time": 764,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The guy's lucky to leave the native quarter. Look at these streets, Alboura!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "4f308a5a-8506-4357-babb-697c2d6c1793"
+    },
+    {
+      "start_time": 775,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That building!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "1461c9a8-0078-46cf-a55b-13a3f61d248d"
+    },
+    {
+      "start_time": 783,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It must be nice to live there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "62817ddf-4415-47f6-89d4-03ad8567ea01"
+    },
+    {
+      "start_time": 793,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That noisy wheel! Saints, protect me! Saints, protect me!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "60dd1747-2a0a-4c15-b681-ff86342b9be1"
+    },
+    {
+      "start_time": 818,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's see your papers!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "3aaebc09-ce64-4453-8ce1-817c7eeec24e"
+    },
+    {
+      "start_time": 828,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have you a permit to come up here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "29e1ca78-e2a9-4639-8882-e53c44161c43"
+    },
+    {
+      "start_time": 834,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No carts are allowed here! Beat it! Fast!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "9aba9bf8-f8e2-462f-8b81-90ef5330ae59"
+    },
+    {
+      "start_time": 845,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The man's going without paying! This guy doesn't care! His foot's on my medal!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "83325eb0-0a3b-4283-a81f-589f77850d6e"
+    },
+    {
+      "start_time": 867,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The guy left without paying me! I had to hock my cart for the fine. Now what'll I do? He said he had connections. He's a thief! How can you trust anyone? It's the same everywhere. They all know how to read...and lie!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "5f94a7b8-9b1d-43be-88c4-47b4b5b12dc8"
+    },
+    {
+      "start_time": 896,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's his fault. No...the other guy's fault. The guy whose child died. It was at the cemetery...I got my second customer! And the story teller! It's his fault!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "89666afa-aa91-42e6-bc49-42eb3671b652"
+    },
+    {
+      "start_time": 911,
+      "end_time": 922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who cares about my ancestors? Now I'm broke! What'll I tell my wife? What'll I give her? Yesterday and the day before it was the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "577a0d57-53f6-4e37-923e-20c61308b75a"
+    },
+    {
+      "start_time": 924,
+      "end_time": 935,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red light!...Stop! Go!...Sleep!...It's a prison! That's modern life! That's life in this country!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "93b54bfe-9af4-462f-9da9-345e779762f9"
+    },
+    {
+      "start_time": 937,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Go!...Yes, I'm going! And that house! That building!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "ad14a524-e00e-43a2-967d-9f9771891b46"
+    },
+    {
+      "start_time": 955,
+      "end_time": 962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yesterday was the same. And the day before! We all work for nothing! What'll I say at home?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "650f3336-5f88-478b-b355-68a69c9fc8ed"
+    },
+    {
+      "start_time": 964,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What'll I tell them? How'll I pay for my cart?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "99b38365-a6a1-4837-883d-1cb3c12604c8"
+    },
+    {
+      "start_time": 975,
+      "end_time": 977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I might as well die!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "19712430-5542-44ed-ab1c-eac5f9df1feb"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is my neighborhood. I feel good here. It's not like up there!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "c04c2ce2-3395-44a1-9ed6-43b8b34b67a2"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No policemen here! We all know each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "66218e09-7e26-4788-92a4-eecb0833421c"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't have anything for you. Not even a cart!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "7821a860-3c1c-4aec-8b4f-69a11fce4c2c"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " - I promise you we'll eat tonight. Go away! There's nothing here! - Where's she going? There's nothing to eat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue EN",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "7b2dab56-ade8-4048-8a4a-1f9f2e479b7c"
+    },
+    {
+      "start_time": 57,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- J'implore sur moi et les miens la protection de Bintallah le miséricordieux. Qu'il me protège des lois et des mécréants!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "63b81d3a-8809-4ffc-829b-98541ca4bbcc"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Amen, Amen, Amen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "7adf7674-f976-405b-ad50-63f33484acb1"
+    },
+    {
+      "start_time": 85,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Tiens ceci, et que Dieu t'accompagne ! Et pense que nous n'avons rien pour midi. - Merci pour tes souhaits !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "3d8f09da-a17f-4f97-8b28-43c0d20374cf"
+    },
+    {
+      "start_time": 150,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elle est bien matinale va ! La pauvre. Je me demande quand elle va me payer. Pour elle aussi, tous les kours sont pas bien."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "f4cb8fd8-2f66-41a7-a9da-bc37b06519ef"
+    },
+    {
+      "start_time": 171,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hue, Albourah!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "544fab53-e42f-467b-a3e5-005ad357aca3"
+    },
+    {
+      "start_time": 180,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voilà cette teigne de Mamadou que je dois prendre tous les matins. Je ne m'arreterai pas. A sa place, je resterais à la maison. Depuis plus de 6 mois il est en chômage, et il s'entête à se lèver tous les matins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "971e11da-d4e2-4b51-afeb-93102db86785"
+    },
+    {
+      "start_time": 234,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Qu'est-ce que j'avais dit ? Une bonne poignée de mains et c'est fini. Avec quoi je vais nourrir mon cheval et ma famille ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "92ebe437-cb7c-4655-92a4-018bc25ca15e"
+    },
+    {
+      "start_time": 251,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Allons attendre la miséricorde de Dieu. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "70d789f7-7bcd-460b-b986-e0c60c474d53"
+    },
+    {
+      "start_time": 287,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- A la grâce de Dieu, à la grâce de Dieu. Ayez pitié de moi, ayez pitié de moi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "db629f9b-e691-485a-9c11-216ddf313bc4"
+    },
+    {
+      "start_time": 300,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- A quoi bon lui répondre ? Des mendiants, y'en a tellement. Sont comme des moches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "cb216861-6cb7-42f6-a27a-33ec039fbb84"
+    },
+    {
+      "start_time": 308,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Borom sarret, réveille-toi ! J'ai du travail à la rue 32. - Oui, patron. Albourah, hue !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "bf08626c-9cb0-4737-b177-f22e7b6442e2"
+    },
+    {
+      "start_time": 359,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Borom sarret,  oh ! Arrête ! Conduis ma femme à la maternité, de suite. - Oui, patron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "07be5049-1527-4d43-95b7-5708cd303dc7"
+    },
+    {
+      "start_time": 393,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Encore cette roue ! Qu'est-ce que je vais devenir avec cette roue... ça grince encore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "114d17f4-e803-43ef-8d81-7388c7e518f7"
+    },
+    {
+      "start_time": 405,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Et cette femme, qui a toujours sa tête sur mon épaule ! Elle peut pas tenir sa tête ailleurs, sur l'épaule de son mari ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "a78a83f8-9bc8-4f40-b42b-f21422f52f6c"
+    },
+    {
+      "start_time": 419,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ce sont les femmes d'aujourd'hui. On n'arrive pas à les comprendre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "cf3d5864-0f0c-4b3e-9570-1ea2f917e69b"
+    },
+    {
+      "start_time": 430,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alhamdulillah, on arrive maintenant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "c657de4f-7dd0-4d89-b687-44ea7485f36f"
+    },
+    {
+      "start_time": 477,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Je ne rentre pas encore ce midi. Je vais me reposer un peu. Une matinée aussi bonne, il ne faut pas la perdre. Et puis toi Fatou, tu m'avais donné un peu de la kola ; ça me suffit pour ce midi. Qui sait ce qu'ils vont manger à midi ? Qui sait ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "dbb16bed-ea60-4cd4-aa6e-006e4a36a86e"
+    },
+    {
+      "start_time": 507,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Qui chante les louanges des mes ancêtres ? Le preux, les braves guerriers d'entan ?  Le même sang coule dans mes veines. En effet, ce n'est pas parce que la vie nouvelle m'a réduit à ce travail d'esclave que je ne suis plus noble comme mes ancêtres !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "f49ca42d-2bd1-4b89-88a6-5498eb35fc8e"
+    },
+    {
+      "start_time": 590,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Salamalécoum, frère ! Tu me conduis au cimetière ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "baa261e0-cb47-4ee2-aa84-ec2f141026ea"
+    },
+    {
+      "start_time": 595,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Si tu payes. - Oui."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "621f4bd4-6b21-49c4-9664-c831d1de16c7"
+    },
+    {
+      "start_time": 632,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Frère, il te manque le papier essientel. - Je suis étranger ici. - Borom Sarret, n'entre pas !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "a0782bdb-0fcb-495f-8c85-f5ea682128c4"
+    },
+    {
+      "start_time": 641,
+      "end_time": 642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Toi, va chercher le papier."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "fc0c4260-fe8d-454b-b7cd-dc0fe3423226"
+    },
+    {
+      "start_time": 655,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Dieu sait que je suis croyant ! Qu'est-ce que je vais devenir avec mon enfant ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "51d3ad8c-5896-4a8a-9176-68b67105d4ee"
+    },
+    {
+      "start_time": 666,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "L'autre, je ne voulais pas le laisser lui non plus ! Je ne voulais pas le laisser ! Mais je reste. J'ai tout donné au griot. Je vais me soulager."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "74f1a7a1-453c-4bf1-a564-90ad785de797"
+    },
+    {
+      "start_time": 683,
+      "end_time": 703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Assalamécoum ! Es-tu en paix? - Paix seulement. -Je déménage. Je vais au Plateau. -Au Plateau ! -Oui! -Oh, c'est interdit aux « Borom Sarret » ! -J'ai des relations et je paye bien. -Des relations ? Non, moi j'irais jamais ! -Regarde ! C'est défendu ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "a8a56a67-8c65-48f7-a8e4-a73da8aa28aa"
+    },
+    {
+      "start_time": 708,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Allah, que tous les saints et les marabouts m'assistent ! Je vais risquer le coup!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "17a7a155-888a-45b6-98b8-864d614f9991"
+    },
+    {
+      "start_time": 750,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que tous les saints me protège, les marabouts me protège ! Que tout le monde me protège !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "c94cad96-3a70-47f9-8de4-4f20fbaae785"
+    },
+    {
+      "start_time": 764,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il est heureux ce type de quitter le quartier indigène ! Regarde-moi ces rues, Albourah !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "e1eec968-61d1-4781-a214-0126adb51074"
+    },
+    {
+      "start_time": 783,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ces maisons, il doit être agréable de vivre dedans !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "7d81bf88-4526-495b-8c1b-fc9ca3f52bc1"
+    },
+    {
+      "start_time": 793,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cette roue... cette roue, ce bruit... Oh, mon Dieu cher ! Cher, protège-moi ! Protégez-moi mes marabouts ! Protégez-moi !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "e0acfe2b-229f-4a38-92eb-1556df492b74"
+    },
+    {
+      "start_time": 818,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Descends vite ! Et tes papiers !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "5a9719cc-47ef-4085-a2d7-a11018f44012"
+    },
+    {
+      "start_time": 828,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vite ! As-tu l'autorisation de venir ici ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "8308f686-8bf0-413c-a4bc-813fda979fdf"
+    },
+    {
+      "start_time": 834,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C'est défendu ce quartier aux « Borom Sarret » ! Dételle et vite !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "af82bef8-b48d-4bd4-aebd-da98ab03b0a9"
+    },
+    {
+      "start_time": 845,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Et l'autre qui s'en va avec mon argent ! L'agent ne lui dit rien ! Il n'ôte même pas son pied de ma médaille !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "7efd8e6f-ebb3-461d-9b0c-fb3dcd42f15e"
+    },
+    {
+      "start_time": 867,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non seulement l'autre, ce voyou, il est parti sans me payer. Je suis sans charrette ! Payer une amende ? Avec quoi ? Qu'est-ce que je vais devenir maintenant ? L'autre qui disait avoir des relations un voleur c'était ! Oui ! Avec qui... à qui il faut faire confiance ? A qui ? C'est pareil dans tous les pays, ils savent lire mais savent que mentir !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "470ca8bc-a3f8-4632-bfa7-a8f2b51e48c5"
+    },
+    {
+      "start_time": 896,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C'est sa faute à lui. Non ! C'est la faute  l'autre, celui dont l'enfant est mort. S'il m'avait pas emmené au cimetière, je serais pas venu. C'est sa faute à lui ! Et puis il y a le griot ! C'est la faute au griot ! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "41522428-78c5-4906-b17e-62cd02b556e4"
+    },
+    {
+      "start_time": 911,
+      "end_time": 922,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que m'importe si mes ancêtres étaient des héros ? Maintenant me voilà sans un sou. Qu'est-ce que je vais dire à ma femme, eh ? Qu'est-ce que je vais lui donner maintenant ? Hier, c'était paraeil ! Avant-hier, c'était pareil..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "27fcbe42-c91e-4d38-ab68-ab9f96e8d901"
+    },
+    {
+      "start_time": 924,
+      "end_time": 935,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feu rouge. Il faut s'arrêter toujours. Partir ! Coucher! ça c'est la prison ! C'est ça. C'est la vie moderne. C'est la vie dans ce pays. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "dec76067-c077-46b7-be44-80dd02c8ac41"
+    },
+    {
+      "start_time": 937,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Partir, oui, j'avance ! Et ces maisons... c'est ça ces maisons ! Ces maisons ! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "384133b6-6697-450e-b710-97c80064aa3a"
+    },
+    {
+      "start_time": 955,
+      "end_time": 962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hier, c'était pareil, avant-hier c'était pareil ! On travaille pour rien ! Qu'est-ce que je vais dire à la maison ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "e67a8804-249b-4ad6-9391-2da3d0f0d52e"
+    },
+    {
+      "start_time": 964,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Qu'est-ce que je vais dire ? Ma charrette, avec quoi je la paye maintenant ? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "5284dffb-17a9-46a5-8573-ba18535519c5"
+    },
+    {
+      "start_time": 975,
+      "end_time": 977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Il ne me reste plus qu'à mourir !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "085cc791-4d3b-4a61-b3c9-42eefb5f0e35"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ici, c'est mon quartier, c'est mon village. Ici je me sens bien. Ce n'est pas comme là-bas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "935ecd45-86eb-4bad-8977-8df8b3de905a"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ici, on ne voit pas d'agent de police, on voit personne, on est bien entre nous. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "c946552b-0719-422b-be42-d7add51ca9bc"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1051,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si c'est moi que tu attends, je n'apporte rien, rien, même pas la charrette !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "41ef2231-2e67-4c5f-9f73-15dcda7eaabc"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Tiens le petit, je te promets qu'on mangera ce soir. Partez les enfants, il n'y a rien ici. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "758d054b-6dfd-4ebb-947a-ab234ae7acda"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1076,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Où va-t-elle à cette heure-ci ? Il n'y a rien à manger !"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogue FR",
+          "category": "Script"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Script"
+        }
+      ],
+      "uuid": "4e3723dc-ea4b-4fc0-a876-25580da5e609"
+    },
+    {
+      "start_time": 15,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret kneels in prayer multiple times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "9e30332b-6ba2-4655-8537-3f0397319314"
+    },
+    {
+      "start_time": 57,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret rubs prayer beads as he recites verse from the Qur'an"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "2f70e4a9-452e-4233-ac84-3b31a352fa5b"
+    },
+    {
+      "start_time": 81,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret prepares his horse for the day's work ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "6c6e1737-e226-4d64-80b4-f3812e549162"
+    },
+    {
+      "start_time": 87,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His wife hands him \"la noix de kola\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "6f3f12d8-fa12-428d-8b82-4d097fa643ac"
+    },
+    {
+      "start_time": 90,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "BS leads the horse out of the home"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "79346f45-3c55-4992-bb55-53ea1d00b9b2"
+    },
+    {
+      "start_time": 115,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "BS is on his wagon, riding throughout town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "31a4505f-dadf-4180-86f2-9c0e7ac67b1d"
+    },
+    {
+      "start_time": 148,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "picking up Fatou, a woman -- question of payment, but he is understanding, and helps her into the wagon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "6bdd7a5c-92f2-4a3c-95bf-82c960f0cbf3"
+    },
+    {
+      "start_time": 175,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "picking up Mamadou -- complains, je ne m'arrterai pas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "5427a647-f6d1-49d9-8b4a-ae0b8711ca41"
+    },
+    {
+      "start_time": 187,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The group continues to ride on the wagon as they go through a particularly busy part of town"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "6d96859b-05c1-4e1e-91db-53d58d5313a0"
+    },
+    {
+      "start_time": 232,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All passengers, including Mamadou, get off the wagon"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "916ff33b-a59e-4708-9323-c8d06d59bc14"
+    },
+    {
+      "start_time": 234,
+      "end_time": 238,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All Mamadou offers BS in terms of payment is a handshake, and BS "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "592b38ef-3df9-4112-b0d5-2792fd84c5fa"
+    },
+    {
+      "start_time": 248,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "BS continues his journey through town"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "4b8ca638-c1e9-45f0-a1a2-aa3c24a99c6c"
+    },
+    {
+      "start_time": 277,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A disabled man crawls up a platform to where BS is sitting, lounging upon his wagon"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "b9ae97db-6a18-4e5c-bc23-d4fa05618932"
+    },
+    {
+      "start_time": 305,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man approaches the wagon, directs him, and climbs in the wagon. They leave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "330b167c-7e5f-4934-a616-c525eac41383"
+    },
+    {
+      "start_time": 323,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The two men ride, a woman in white walks past. They sit upon two oil barrels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "e51a5485-35a6-4881-a9a9-edfe590f689b"
+    },
+    {
+      "start_time": 340,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scene fades in to a shot of BS loading up cinder blocks into the wagon, struggles to get his horse to begin walking again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "d29d9005-58a0-4c69-a855-9ef7301b9205"
+    },
+    {
+      "start_time": 358,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alone once again, BS stops the wagon for a man who needs a ride for his pregnant wife to the maternity clinic. They help her into the wagon and continue the ride."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "f63b9e81-a8a2-42b9-a614-f5ed6b4d93b8"
+    },
+    {
+      "start_time": 393,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voice over of BS lamenting about the squeaky wheel as well as the woman resting her head on his shoulder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "caf3fbf7-0289-4487-a3f4-4b0c680e7e29"
+    },
+    {
+      "start_time": 490,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret decides to take a break, eats some kola nuts, while pondering what food they will eat at home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "4c05d3ad-9251-40a9-a4a3-4446ed91828b"
+    },
+    {
+      "start_time": 520,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A griot enters the scene, happily singing -- \"Cora et balafon accompagnent les paroles de sa chanson (en Wolof)\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "e68bcf61-bfd0-4d47-8769-c6d9dd71720a"
+    },
+    {
+      "start_time": 576,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret sits on the ground, going back to trying to fix the wheel"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "54bea6e6-f20c-4398-80b5-34c7bd76f039"
+    },
+    {
+      "start_time": 592,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man approaches him, holding his deceased baby wrapped in a cloth. He asks to go to the cemetary and places the baby in the wagon. He walks slowly behind the wagon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "e61b363c-d28a-40e4-a767-a052e60004a9"
+    },
+    {
+      "start_time": 625,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They arrive at the cemetery. The passenger tries to give his paperwork over, but is not allowed. BS is carrying the baby into the cemetery, but he is stopped."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "759975d2-23cf-43c3-b9f4-8910e7a8b934"
+    },
+    {
+      "start_time": 645,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "BS places the baby at the man's feet and walks away, pulling the horse. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "0f073a44-a07e-48a1-9be4-984d05fd9051"
+    },
+    {
+      "start_time": 659,
+      "end_time": 663,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The passenger wonders what to do with his child while he watches the wagoner walk away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "7d02ee77-974f-42c9-85e7-eae1b20bb6ba"
+    },
+    {
+      "start_time": 665,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "BS, riding on his wagon and then hopping off, laments how he didn't want to leave the man, but he had nothing left to give."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "280ea97a-7e67-4779-8500-03aa1287b7a0"
+    },
+    {
+      "start_time": 676,
+      "end_time": 705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man, dressed in a suit and suit, approaches Borom Sarret. He informs him he is moving to the Plateau. BS informs him that Wagoners aren't allowed up there. The man informs him that he will pay well. BS is adimant about not going, but is persuaded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "64fc5829-0b46-475c-817a-90665d7c9dd2"
+    },
+    {
+      "start_time": 714,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traveling through the city, he is the only wagoner shown."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "ac305e24-032a-47e6-aa4a-fc603f53fbb6"
+    },
+    {
+      "start_time": 790,
+      "end_time": 798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret looks around nervously as the wheel squeaks in the background. He silently asks the saints to protect him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "3df2527c-ac6f-46c6-8247-aff25d6462ec"
+    },
+    {
+      "start_time": 805,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They are stopped by the officer who aggressively asks them to exit the wagon and present his papers. He informs BS that wagoners are not allowed there. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "99bd2064-1bd1-461d-985f-37d560e9d927"
+    },
+    {
+      "start_time": 837,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While unwrapping the document, a medal falls out. The camera pans to it. On the left is the flip flop of Borom Sarret, on the right is the leather shoe of the officer, and in between is the medal. BS reaches down to pick it up, but the officer steps on it. BS closes his fingers quickly, and the camera freezes on his closed fist. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "77ae5cd3-e114-4a45-b332-eb784d01d30d"
+    },
+    {
+      "start_time": 840,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera on the officer's fast telling him to leave, and Borom Sarret looks up at him with a scowl on his face. The camera pans back to the closed fist at the foot of the officer. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "9a8fd0ba-461e-4b05-9c0a-e8e4decd62a6"
+    },
+    {
+      "start_time": 845,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the officer is writing up his document, the passenger gets into a car, leaving the scene without paying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "a11a1db5-d35f-4c01-9654-fe42a6d4befb"
+    },
+    {
+      "start_time": 868,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No longer having his wagon due to the fact that he had to sell it to pay the fine, he and his horse journey back to the Medina, angry at the circumstances of the day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "6166dbd1-88ef-4c41-8e50-78fc15a94819"
+    },
+    {
+      "start_time": 910,
+      "end_time": 931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret stops at the stoplight, even though he is a pedestrian with his horse"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "6659d7f1-126f-4ce0-99ca-eaa103b1b75f"
+    },
+    {
+      "start_time": 932,
+      "end_time": 1044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He continues to walk through the ciry, soon exiting and entering the Medina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "21c2b6c8-7f3e-4e8c-833a-be064b7ba1f4"
+    },
+    {
+      "start_time": 1045,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fatou, his wife, his crouched over a pot. Off screen, Borom Sarret informs her that he has nothing, not even his cart. She enters the home, baby on her back, carrying a pot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "80a4ff4d-7e7e-4d5c-9bf4-939b2b2b1b59"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two boys enter, each carrying a small bucket, singing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "bf939b2f-f49c-49eb-a113-8bcde6fef0a1"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His wife exits the home, carrying the baby in her arms now, promising they will eat tonight. She hands the baby to Borom Sarret, the father. She sees the two boys and tells them to leave, there is nothing there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "21fa6828-0424-45f8-94aa-88d0637addf7"
+    },
+    {
+      "start_time": 1072,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Holding his child, Borom Sarret muses about where his wife is going. The baby begins to cry as the screen fades to black."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "ba879fd6-bcf7-4ab2-acb8-3943743d1fa4"
+    },
+    {
+      "start_time": 15,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the background, Borom Sarret's wife is churning something (butter?) in a large wooden mortar. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Secondary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "450937ae-ec91-41b6-a72f-0a0bee79c03e"
+    },
+    {
+      "start_time": 57,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the background, Borom Sarret's wife is churning something (butter?) in a large wooden mortar. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Secondary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "831b0801-3356-4352-b26a-3fad70734d29"
+    },
+    {
+      "start_time": 795,
+      "end_time": 805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the perspective of the wagon, children cross the street in front of the wagon"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Secondary Action",
+          "category": "Action"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Action"
+        }
+      ],
+      "uuid": "a8be328e-fffa-4aa1-8289-5c3be6db1478"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Broad shot of a mosque fades in from a black screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "8d3da1cd-785a-44d7-965e-774223021908"
+    },
+    {
+      "start_time": 7,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neutral shot of everday activities used for film introduction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "131089a7-2a74-4e5f-9479-78d6b98e54df"
+    },
+    {
+      "start_time": 89,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rapid shot of the horse-- the audience sees how thin the horse is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "b3adef06-352c-47aa-938f-bb083bb151a8"
+    },
+    {
+      "start_time": 90,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot pans on a man leading a horse around."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "cd70be2c-1211-4e94-8b5d-d389a3834c7c"
+    },
+    {
+      "start_time": 108,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still shot focuses on random person working on a project, but switches and pans on main character as he is moving through the town via horse and cart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "2cf92c6d-9bb7-4f98-9f44-b123edb67064"
+    },
+    {
+      "start_time": 125,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot switches to another part of town to watch the horse and cart coming through. High-angle shot on the path of the cart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "177fd2e3-871a-4883-8906-1f6d990822ca"
+    },
+    {
+      "start_time": 175,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shot pans with the cart, adjacent to it, so the viewer can see the faces of the three people -- giving the effect it is from BS's perspective"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "dcd82765-8f31-4a08-a749-7bdce8eb0010"
+    },
+    {
+      "start_time": 179,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera dollies behind the cart while it moves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "26fee2d7-6c4b-4fe3-ad93-31e51fa0ac50"
+    },
+    {
+      "start_time": 192,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shot moves slightly down, focusing on the cart's shadow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "4f1dbf0a-fdc1-4760-889b-ff388a299648"
+    },
+    {
+      "start_time": 200,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera dollies in front of the cart, showing it head on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "5b1b1224-5b68-48a0-9f0e-008ff6bee73a"
+    },
+    {
+      "start_time": 245,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera pans over a market with narration -- giving the effect that is from the perspective of BS"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "f7deb6af-9c46-481e-9c69-3ff289a1ce25"
+    },
+    {
+      "start_time": 288,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Juxtaposition of diabled man at the base of the wagon, camera cuts sharply to the soles of BS's feet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "678f9428-5b8e-43b6-ab38-e0fab397e2b2"
+    },
+    {
+      "start_time": 323,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition fade effect used into new scene."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "a9f2f8c7-be60-42e4-807d-da4506660e74"
+    },
+    {
+      "start_time": 331,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera pans with the cart as it passes by."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "f1299aef-aae4-4b18-bb22-3d046029e257"
+    },
+    {
+      "start_time": 356,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up shot on a man giving a speech. Camera has a low-angle shot on the man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "13c91de7-9be0-4d58-bf30-5014d2a33b0a"
+    },
+    {
+      "start_time": 425,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot bounces as if it is in the cart but focuses on the maternity clinic as it pulls in close to the building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "77445e61-c300-443f-b49c-c866db985895"
+    },
+    {
+      "start_time": 473,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera pans the pregnant woman and the Borom Sarret, but as they enter the building, it drops down into some bushes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "56212949-c39a-4550-96b5-ad19c8b59a45"
+    },
+    {
+      "start_time": 513,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up shot on a man giving a speech. Camera has a low-angle shot on the man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "da231a14-721e-42d2-b78c-478d1cccedf8"
+    },
+    {
+      "start_time": 518,
+      "end_time": 531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot pans to show reaction of the crowd to the man's speech. Multiple shots make up a sequence giving the crowd's reaction to the speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "758ad81c-998e-495c-b711-8ed1059fa7de"
+    },
+    {
+      "start_time": 586,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera sits behind Borom Sarret working on wagon wheel and shows a shadow of another man approaching him from off-screen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "9b1eb9e7-b5b0-4124-bb89-63ae6095ae06"
+    },
+    {
+      "start_time": 647,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low-angle overall shot films wagoner leaving the cemetery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "e276a3b0-ca3e-463c-8a13-76ca9d5c6370"
+    },
+    {
+      "start_time": 659,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up shot of a man thinking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematographic technique",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "dff9f950-5a5b-44dc-9a8d-f6f5d08526f9"
+    },
+    {
+      "start_time": 661,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot pans while focusing on the cart, and stops with the cart. Borom Sarret urinates off camera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "753ff45b-a1fe-4fac-90a9-9694e9add23c"
+    },
+    {
+      "start_time": 683,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man and Borom Sarret begin conversation in a neutral general shot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "647c5d68-1e48-4846-8d12-bc8cd6c9ad59"
+    },
+    {
+      "start_time": 691,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot switches to overall shot of the European area they are discussing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "df08ed9f-470a-45e6-8059-9287e2a96eb7"
+    },
+    {
+      "start_time": 695,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Returns to neutral general shot of the conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "197b9cb8-ec4a-4f6e-9df9-6179999fec9f"
+    },
+    {
+      "start_time": 709,
+      "end_time": 712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot pans with Borom Sarret."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "dd7c9885-8778-41df-9a01-c75b3b522a95"
+    },
+    {
+      "start_time": 713,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High-angle shot pans around urban area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "22fc5e52-c386-4a34-a289-9b79d49b704c"
+    },
+    {
+      "start_time": 746,
+      "end_time": 758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still high-angle shot of an intersection in the urban area. Borom Sarret and the man pass through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "04c5e9d3-bf50-4cb4-b89d-a9ead9f9ab75"
+    },
+    {
+      "start_time": 759,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neutral shot of another street where the wagoner approaches the camera, which pans with Borom Sarett and the man as they pass."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "10b6a88c-3f2a-4f7f-a15e-32b55b6ea19d"
+    },
+    {
+      "start_time": 774,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low-angle dollying shot on a large urban building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "947168a6-fd2d-4e9e-80f0-95a893809c11"
+    },
+    {
+      "start_time": 788,
+      "end_time": 796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up dollying shot on the Borom Sarret's face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "17c1b7d4-ab78-486b-98e8-0170e5add53c"
+    },
+    {
+      "start_time": 797,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neutral general dollying shot showing an oncoming street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "3b74890a-d1cd-4366-b1d3-969f981222cb"
+    },
+    {
+      "start_time": 805,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neutral panning shot on Borom Sarret and the man, interjected with a closeup shot of a policeman blowing a whistle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "a8fbbf72-327e-4e3e-9696-da4b39a88b20"
+    },
+    {
+      "start_time": 811,
+      "end_time": 814,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low-angle closeup shot on a horse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "86cd2423-1f12-42d2-b3c7-720f40e4d31e"
+    },
+    {
+      "start_time": 815,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still overall shot of conversation between Borom Sarret and policeman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "7be8bce9-cfe8-412e-98c2-a9b581f5f32e"
+    },
+    {
+      "start_time": 830,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another overall shot of the conversation between Borom Sarret and policeman. The shot becomes close as Borom Sarret hands the permit and drops a medal on the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "f2426158-10e9-4570-b921-84356ad09286"
+    },
+    {
+      "start_time": 840,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shot is close up on the faces of the policeman and Borom Sarret. There is a quick low-angle shot on the policeman followed by a quick high-angle shot of Borom Sarret."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "91742b97-73ac-411f-817b-46ea17b30d6b"
+    },
+    {
+      "start_time": 843,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera pauses close-up on Borom's hand still outreached for the medal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "3177849d-4be9-405c-99c4-a1de3772e07e"
+    },
+    {
+      "start_time": 845,
+      "end_time": 854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall still shot of policeman writing on a notepad and a loaded car driving away in the background."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "b866d4b4-aa5e-458f-86f1-25d091add1f2"
+    },
+    {
+      "start_time": 863,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scene fades into a general panning shot of a street where Borom Sarret is walking with his horse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "bcb336b6-6cb4-4f2f-ab3f-e2f9d3dbfa84"
+    },
+    {
+      "start_time": 880,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still shot on another street where Borom Sarret continues to walk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "e0b2b092-8fe2-4b11-9633-44d8cd71ff9f"
+    },
+    {
+      "start_time": 896,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Full-figure dollying shot follows in front of Borom Sarret as he continues to walk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "4e895160-457a-4935-a011-c061a1c719df"
+    },
+    {
+      "start_time": 910,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A similar shot but the camera zooms in closer to the Borom's face."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "bd15c828-802e-4dc2-9000-755ddfa66738"
+    },
+    {
+      "start_time": 921,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still neutral shot as Borom Sarret approaches an intersection with a traffic light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "8f85a09a-2c99-407f-88df-89d0da834293"
+    },
+    {
+      "start_time": 925,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shot switches back and forth between a closeup of Borom Sarret's face and the traffic light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "18dec77f-bb4d-48c3-bb09-ec3b62334d68"
+    },
+    {
+      "start_time": 938,
+      "end_time": 953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low-angle shot dollying with Borom Sarret of a large building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "9bc2545b-537f-42ad-9308-102879e6e906"
+    },
+    {
+      "start_time": 954,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neutral general shot of a public area that Borom Sarret passes through. The camera pans with Borom as he moves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "5715ed05-95c5-4284-903d-ef274435e503"
+    },
+    {
+      "start_time": 980,
+      "end_time": 989,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up full figure shot of Borom Sarret passing through the same public area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "5b337f58-3177-43a1-a881-95b2407de7b1"
+    },
+    {
+      "start_time": 990,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dollying shot of a busy street. Seems as if the camera is attached to a car."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "582cec3a-471f-4a45-b5ce-67a07425440f"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shot of a busy intersection that Borom Sarret passes through. The shot is still at first, but then pans towards a large public monument and focuses on it for a second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "9f52bcb5-c8ae-45d4-acdf-be84547a250d"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "General shot of a woman doing chores in a yard. The shot is still as Borom Sarret walks into the yard but begins panning once he passes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "b3af9302-4fc0-4675-b737-7076811e7dd9"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Full-figure shot follows the woman as she moves throuh the yard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "39ee92a1-de5f-4457-b9c3-7c7cb24187ea"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still shot on the gate of the yard as two young boys walk in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "95245f1a-1e6f-45aa-9016-63c7de60d044"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "General shot of the woman handing Borom Sarret a child as they talk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "0c1fce35-d18b-42e6-a446-07f8905d44eb"
+    },
+    {
+      "start_time": 1073,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close up shot on a person holding the baby as the movie fades to a black screen and ends."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Technique"
+        }
+      ],
+      "uuid": "a0daff94-e204-4d81-bf28-c5e4adc2e6c9"
+    },
+    {
+      "start_time": 60,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prayer beads: Used as a prayer is recited."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "3abcfdce-a94a-41af-8511-66f312a6273e"
+    },
+    {
+      "start_time": 67,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He places a string of \"amulets\" around his body, near his heart, as well as his right arm (\"enfile ses amulettes autour de son cours et de son bras droit\")"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "8964e3ff-4dec-4347-8d3e-40b75cca2b74"
+    },
+    {
+      "start_time": 108,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Spool of String: Used for a project by a random merchant/artisan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "ba390d07-1c9b-4f36-9747-8330fbf021ee"
+    },
+    {
+      "start_time": 150,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Basket: A woman loads a basket and then herself on the cart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "cb020817-523b-420d-92b3-abbc73711560"
+    },
+    {
+      "start_time": 580,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wagon Wheel: Borom Sarret toys with one of the wagon wheels because there is an issue with it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "a23c96ee-8993-416d-90e1-4dd892a7a4d2"
+    },
+    {
+      "start_time": 589,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man approaches with his deceased son, wrapped in a white cloth, and asks to go to cemetery with it to the wagoner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "530d78ea-2454-44f7-9477-fc02a597d5d5"
+    },
+    {
+      "start_time": 622,
+      "end_time": 633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man walks to cemetery with some piece of paper. Cemetery worker stops the man and wagoner from entering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "e83c1dc3-3ea3-46ca-acbd-8acf03c47496"
+    },
+    {
+      "start_time": 635,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wagoner attempts to carry the wrapped object into the cemetery but is stoped by cemetery worker. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "c74cee6c-8d92-4957-a1f4-8bf8c232310a"
+    },
+    {
+      "start_time": 833,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Permit: Policeman demands to see Borom's permit to be in the urban area with a cart, which is presumably prohibited."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "035ee3ba-f367-4236-9f4f-3cdaac3bf952"
+    },
+    {
+      "start_time": 836,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medal: As policeman analyzes the permit, Borom Sarret drops his medal drops on the ground. The wagoner attempts to pick it up, but the policeman shouts at him. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "bcbc8132-764d-418d-a406-bb4a57032166"
+    },
+    {
+      "start_time": 925,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traffic Light: Borom Sarret looks at the traffic light and makes comments on how it functions and the meaning it applies to society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Props",
+          "category": "Staging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Staging"
+        }
+      ],
+      "uuid": "5aaf9b79-67d3-4bf4-a14c-59c9336ae81e"
+    },
+    {
+      "start_time": 714,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shift in music represented here, while still maintaining the upbeat and lively nature, underscores the distinction between the two locations. By using this classical music, very much rooted in Western tradition, Sembène  effectively juxtaposes the two locations -- that of the westernized Plateau compared to the more traditional outskirts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Film analysis",
+          "tag": "Music"
+        },
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        }
+      ],
+      "uuid": "695a91a0-6d4b-48eb-9f79-ba692c14112a"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How will they get food? 2 options: 1. Prostitution (culturally, not an option), thus option 2. Someone in the nearby community will most likely help feed them. Also, a reversal of stereotypical gender roles occurs here since Borom Sarret's wife must provide for the family."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "8d10d785-0dad-4c20-b848-febe9b113c65"
+    },
+    {
+      "start_time": 910,
+      "end_time": 931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not only does he stop at the stoplight, in this whole scene he keeps the horse closer to the sidewalk, attempting to protect his last means of money from the cars going by."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "b79ac044-d498-4ded-8465-55eb8302174a"
+    },
+    {
+      "start_time": 840,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The use of a low-angle shot on the policeman and a high-angle shot on the wagoner conveys a power dynamic of the exchange. The low-angle shot makes the policeman seem menacing and powerful, while the high-angle shot makes Borom Sarret seem weak and subordinate to the policeman. It is worth noting, however, Borom's face is defiant which suggests a challenge to the policeman's authority."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "00a9cdda-09c1-48fc-8afd-5b60a9fa11ea"
+    },
+    {
+      "start_time": 925,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borom Sarret comments depressingly about how a traffic light automatically applies the stringent constrains of society. The light controls whether he may go or must stop, constricting his movements. He laments \"it's a prison\" and \"that's modern life,\" which indicates a past, less constraining society. This is likely frustration towards colonization of Senegal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "884de82d-3d4e-4272-b655-dcab9f228fd3"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This monument is \"La place de l'obélisque\" in Dakar. The monument commemorates Senegal's indepenedence from France in 1960, being adorned with the roman numerals MCMLX on the side of the monument. This is an important moment for the film because it comes right after Borom Sarret is lamenting against how controling western society is. The monument is supposed to symbolize independence, but is Senegal really independent?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "3bea3a79-eca5-4105-89c0-2a2fabcd442b"
+    },
+    {
+      "start_time": 836,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The medallion plays a puzziling role in the film. It is not clear what the medallion is for, and an online search of Senegal military regalia yields no answer. Borom Sarret is almost certainly the one who drops the medal, and not the policeman. One possibility is the medal was payment for one of Borom's services. Another possibility is the medal belonged to the man who requested Borom take him to the French Quarter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film analysis"
+        }
+      ],
+      "uuid": "7cccf749-92a7-4835-8914-53f71d2c073b"
+    }
+  ],
   "set": "Default",
   "event_id": "8ab584dd-5b9f-4fd6-a387-ad53bb112d13",
   "source_id": "e9aacf96-c382-4642-8559-e2a3b8204769"
