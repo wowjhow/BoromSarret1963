@@ -12,6 +12,27 @@
   "label": "Borom Sarret (1963)",
   "created_at": "2024-11-10T18:56:33.978Z",
   "created_by": "wowjhow",
-  "updated_at": "2025-01-17T21:43:26.267Z",
-  "updated_by": "wowjhow"
+  "updated_at": "2025-01-17T21:51:41.252Z",
+  "updated_by": "wowjhow",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Borom Sarret ",
+          "italic": true
+        },
+        {
+          "text": "(or "
+        },
+        {
+          "italic": true,
+          "text": "The Wagoner"
+        },
+        {
+          "text": ") is a 1963 film by famed Senegalese director Ousmane Sembène. With a runtime of about twenty minutes, Sembène’s first ever film recounts the day-in-the-life of an impoverished borom sarret or horse-cart driver who lives in the Medina–the rural and working-class outskirts of Dakar–and provides transportation for people who wish to make the trip to the Plateau, a major formerly colonial administrative center where the elites–both Senegalese and European–live."
+        }
+      ]
+    }
+  ]
 }
