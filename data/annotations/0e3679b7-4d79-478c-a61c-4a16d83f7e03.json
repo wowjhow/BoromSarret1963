@@ -5747,7 +5747,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "https://heroesofadventure.com/listing/place-de-lobelisque-dakar-senegal/"
+              "text": "For more information on this statute "
+            },
+            {
+              "text": "click here",
+              "link": "https://heroesofadventure.com/listing/place-de-lobelisque-dakar-senegal/"
             }
           ]
         }
