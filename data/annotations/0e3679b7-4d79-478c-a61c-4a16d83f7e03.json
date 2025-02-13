@@ -5738,6 +5738,27 @@
         }
       ],
       "uuid": "7cccf749-92a7-4835-8914-53f71d2c073b"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "https://heroesofadventure.com/listing/place-de-lobelisque-dakar-senegal/"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Film analysis"
+        }
+      ],
+      "uuid": "dd17b49c-d009-4c03-a591-e1b59218bd68"
     }
   ],
   "set": "Default",
