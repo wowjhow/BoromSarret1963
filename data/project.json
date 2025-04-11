@@ -8,7 +8,7 @@
   "project": {
     "github_org": "wowjhow",
     "is_private": false,
-    "title": "Space in Borom Sarret",
+    "title": "Liminality in Borom Sarret",
     "description": "Borom Sarret (or The Wagoner) is a 1963 film by famed Senegalese director Ousmane Sembène. With a runtime of about nineteen minutes, Sembène’s first ever film recounts the day-in-the-life of an impoverished borom sarret or horse-cart driver who lives in the Medina–the rural and working-class outskirts of Dakar–and provides transportation for people who wish to make the trip to the Plateau, a major formerly colonial administrative center where the elites–both Senegalese and European–live. ",
     "language": "en",
     "slug": "BoromSarret1963",
@@ -112,7 +112,7 @@
       ]
     },
     "created_at": "2024-11-10T18:51:07.367Z",
-    "updated_at": "2025-04-11T19:30:42.260Z",
+    "updated_at": "2025-04-11T19:30:58.140Z",
     "generate_pages_site": true
   },
   "is_private": false
